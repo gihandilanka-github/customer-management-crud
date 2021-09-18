@@ -1,0 +1,31 @@
+.section-hero{
+    min-height: 300px;
+}
+.section-profile-cover{
+    height: 450px;
+}
+textarea{
+    resize: none;
+}
+.btn-linkedin {
+    color: #fff;
+    background-color: #0a66c2;
+    border-color: #0a66c2;
+    box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+.btn-linkedin:hover {
+    color: #fff;
+    background-color: #0a66c2;
+    border-color: #0a66c2;
+}
+.invalid-feedback{
+    display: block;
+}
+
+.vue-swatches__trigger{
+    /*border-style: double;*/
+    border: 1px solid grey
+}
+.text-bg-overlay{
+    background-color: rgba(0, 0, 0, 0.7);
+}
